@@ -1,8 +1,8 @@
-## Hi there 👋
-
-![Manthan Home Page](https://raw.githubusercontent.com/manthan-technology/.github/main/images/manthan-home-page.png?raw=true)
+## Hey!
 
 Manthan makes your DeFi experience straight-forward!
+
+![Manthan Home Page](https://raw.githubusercontent.com/manthan-technology/.github/main/images/manthan-home-page.png?raw=true)
 
 Access all your asset in one place, no need to jump over to different networks or to switch between multiple farms. Manthan curates all these information for you and help you visualize it, so that your time is spent on doing important stuff.
 
