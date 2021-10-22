@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Manthan Home Page](../images/manthan-home-page.png)
+![Manthan Home Page](https://raw.githubusercontent.com/manthan-technology/.github/main/images/manthan-home-page.png?raw=true)
 
 Manthan makes your DeFi experience straight-forward!
 
